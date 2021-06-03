@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New song, to the tune of Robin Goodfellow</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27312</idno><idno type="EEBO-CITATION">12643442</idno>
+  <idno type="VID">200366</idno>
+  <idno type="EEBO-PROQUEST">2241010201</idno>
+  
+            <idno type="STC">Wing N774B</idno>
+            <idno type="OCLC">12643442</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 966:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New song, to the tune of Robin Goodfellow</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Tebroc,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:200366:1"/>
+            <pb facs="tcp:200366:1"/>
+            <head>A NEW SONG.</head>
+            <opener>To the Tune of <hi>Robin Goodfellow.</hi>
+            </opener>
+            <lg>
+               <l>THough <hi>S—</hi>s cleared by</l>
+               <l>The Cunning <hi>Ignoramus</hi> Sway:</l>
+               <l>He guilty stands of Treachery</l>
+               <l>That does not Heavens decrees obey,</l>
+               <l>Kings are Elected,</l>
+               <l>Never rejected,</l>
+               <l>But by the Heavenly pow'rs above;</l>
+               <l>Then pray you why</l>
+               <l>Should little <hi>An—</hi>
+               </l>
+               <l>Then have a hand in a Kings remove.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>He is so mad, I wonder much,</l>
+               <l>That's going to his Grave on Crutch,</l>
+               <l>That Knows the Laws, some Princes draws</l>
+               <l>Amongst the <hi>Whiggs,</hi> to <hi>The Good Old Cause.</hi>
+               </l>
+               <l>His praises aloud</l>
+               <l>Are resounded by the Croud,</l>
+               <l>Makes the little Pigmy strut and stare;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>Once more wear his Loyalty thred bare.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>His Policy must greater be,</l>
+               <l>Ere he attains his Zealous ends;</l>
+               <l>Although he wheadles the City Beagles,</l>
+               <l>And such poor Mechanick Friends,</l>
+               <l>They will turn as fast</l>
+               <l>Honest men at the last</l>
+               <l>As they before turn'd fools and Knaves;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>Once more his Turn-coat honor save.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Must we be led in Misery</l>
+               <l>By the blind that can but will not see;</l>
+               <l>Their frantick brains brought into th' wain</l>
+               <l>Those Royal Stars of <hi>Charlemain;</hi>
+               </l>
+               <l>And if not watcht,</l>
+               <l>Or by <hi>Ty—</hi> Catcht,</l>
+               <l>Will strive to do it once again;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>Be the bearer up of that fine Train.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Might they have their wills, what would they make</l>
+               <l>Of this small gruntling groaning Ape,</l>
+               <l>A God they cannot, a King they shall not:</l>
+               <l>An Idol their zealous concerns may not,</l>
+               <l>No, but they would,</l>
+               <l>If that they could</l>
+               <l>Set up him a second <hi>Cromwell</hi> soon;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>For once be made the man i'th' Moon.</l>
+            </lg>
+            <pb facs="tcp:200366:2"/>
+            <lg n="6">
+               <pb facs="tcp:200366:2"/>
+               <head>VI.</head>
+               <l>This changeing Imp is now become</l>
+               <l>Our Loyal Cities only grace,</l>
+               <l>The Devil ne're made sike another Loon</l>
+               <l>To aim before at a Royal place,</l>
+               <l>Nothing but <hi>Coo—</hi>
+               </l>
+               <l>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st be <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hei<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oope<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>On <hi>Ashl<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> not <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n H<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ven, th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y call</l>
+               <l>Then p<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>Once in a Chair of State Look Tall.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>But if the Law, as once before,</l>
+               <l>Was of the Tyrant Sword in Awe:</l>
+               <l>Little Jack a Dandy that never yet swore,</l>
+               <l>For safety would to a Monarch draw,</l>
+               <l>He would leave the City,</l>
+               <l>Yes, and Committee;</l>
+               <l>To the King he would for mercy haste;</l>
+               <l>Then pray you why</l>
+               <l>Should little <hi>An—</hi>
+               </l>
+               <l>Any more idle-time in his Cabals waste</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>To Jealousie now more are given</l>
+               <l>Than Antient Letchers, wise and grave:</l>
+               <l>This cunning Fox, though he be Poxt,</l>
+               <l>His policy will honor save.</l>
+               <l>He scorns for to rail,</l>
+               <l>Though a Cla<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sieze his Tail</l>
+               <l>At any thing of woman Kind;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>With <hi>Whor—</hi> be both lame and blind.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>But if he said the Whore was honest</l>
+               <l>That betray'd him in his Youth,</l>
+               <l>The zealous all, both great and small,</l>
+               <l>Woud all believe it for a truth,</l>
+               <l>Bear him to <hi>Wallbrook</hi> Cross,</l>
+               <l>And Set him on the Horse,</l>
+               <l>Dismount the Image of your King;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>Look as like as he can to sike a Thing.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Then on your Knees, most reverently,</l>
+               <l>Fall down and worship the Molten Calf:</l>
+               <l>Or take him and han— him decently,</l>
+               <l>For that's the better way by half,</l>
+               <l>Then all may see</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Policy <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>Brought to <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight de<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed en<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>Shake hands at <hi>T—hill</hi> with his friends.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Some old men doubtless there are</l>
+               <l>Of women mad past all compare:</l>
+               <l>This Lustful Ram, we need not doubt,</l>
+               <l>Although he is pincht with the Gout,</l>
+               <l>Will sit in State,</l>
+               <l>Frigg into debate</l>
+               <l>The factious people all he can;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>Or Wheadled <hi>M—</hi> lead the Van.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>No place within the Earthly Ball,</l>
+               <l>Besides this Kingdom giveth birth</l>
+               <l>To men so vile, as would beguile</l>
+               <l>Their Country, lay their Kings in Earth</l>
+               <l>Before they are grown,</l>
+               <l>Scarce Set upon a Throne,</l>
+               <l>They are degraded and cast down;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>Be seen like a <hi>Mouse</hi> in an <hi>Ermin</hi> Gown.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>When they are well they cannot keep so,</l>
+               <l>All the Universe can tell,</l>
+               <l>Their zealous Piety makes them weep so,</l>
+               <l>They are not afraid to rule in Hell:</l>
+               <l>Give them the Scepter,</l>
+               <l>Drunk with a Lector,</l>
+               <l>Tey sell both Kings and Souls for Gold;</l>
+               <l>Then pray you why</l>
+               <l>May not little <hi>An—</hi>
+               </l>
+               <l>With a Second Monarch now make bold.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> C. Tebroc, Anno Dom. <hi>1682.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
